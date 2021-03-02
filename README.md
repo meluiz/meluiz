@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```javascript
 const me = {
     name: "Luiz Felipe",
