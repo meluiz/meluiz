@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**meLuiiiz/meLuiiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const me = {
+    name: "Luiz Felipe",
+    age: 20,
+    education: "Subsequent Administration Technician",
+    hobby: "develop",
+    social: {
+        codepen: "https://codepen.io/Luiiiiz",
+        discord: "Luiiiz#2667",
+        rocketseat: "https://app.rocketseat.com.br/me/meluiiiz"
+    }
+}
+```
