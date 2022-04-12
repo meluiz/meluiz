@@ -7,5 +7,5 @@ Front-end Developer who loves web technologies and that make everything with lov
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeluiz&count_bg=%237928CA&title_bg=%237928CA&icon=&icon_color=%23E7E7E7&title=View+Profile&edge_flat=true)](https://meluiz.com)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meluiz&theme=github_dark&show_icons=true&border_color=25282e&line_height=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meluiz&&theme=github_dark&layout=compact&border_color=25282e)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meluiz&theme=github_dark&show_icons=false&border_color=25282e&line_height=20&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meluiz&&theme=github_dark&layout=compact&border_color=25282e&card_width=320)](https://meluiz.com)
