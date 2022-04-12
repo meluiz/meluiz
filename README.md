@@ -8,4 +8,4 @@ Front-end Developer who loves web technologies and that make everything with lov
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meluiz&theme=github_dark&show_icons=false&border_color=25282e&line_height=20&card_width=320)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meluiz&&theme=github_dark&layout=compact&border_color=25282e&card_width=320)](https://meluiz.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meluiz&&theme=github_dark&layout=compact&border_color=25282e&card_width=288)](https://meluiz.com)
