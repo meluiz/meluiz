@@ -28,7 +28,7 @@ $ ls ./stack
 $ ls ./links
   🌐  meluiz.com                 → https://meluiz.com
   💼  linkedin.com/in/meluiz     → https://linkedin.com/in/meluiz
-  📬  hi@meluiz.com
+  📬  me@meluiz.com
 
 $ cat status.sh
   [████████████████░░░░]  building something new...
